@@ -1,1 +1,8 @@
-# ffaportal
+<h1 align="center">Fortis Fortuna Adiuvat - Portal</h1> 
+<br>
+<p align="justify">Esse projeto foi desenvolvido a pedido do Professor Gabriel A. (Instituto PROA), o objetivo central é criar uma página HTML onde seja possível navegar para outras dez páginas que contenham artigos sobre assuntos váriados. Partindo desse princípio, optei por Games e Filmes como tema principal do meu portal, criei uma tela "Home" para cada tema utilizando o aprendizado obtido em aula, o usuário possuí então  a liberdade de navegar entre 20 artigos variados, tendo como recurso duas telas introdutórias e uma tela de destaques onde é possível ler resumos sobre os principais títulos do site. Desenvolvi também uma tela "Sobre" que contém informações referente a escolha dos títulos e algumas explicações pertinentes. Fiz uso do CSS para estilizar e criar uma experiência minimamente interativa, sem utilizar JavaScript, deste modo pude me manter fiel ao objetivo principal. Como foi meu primeiro site prático criado do zero, errei em alguns pontos como integração de páginas, manipulação de elementos e outros. Porém não "consertei" os erros, o intuito disso é poder comparar esse primeiro projeto com futuras criações e através disso ter uma apuração assertiva sobre o meu desenvolvimento. </p>
+<br>
+<div align="center">
+<img align="center" alt="Saulo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Saulo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
